@@ -11,5 +11,5 @@ I used HTML to create this website
 {If you rn into any issues please reach out at angie.dar66@gmail.com}
 ### License
 MIT License
-Copyright (c) {year} **{List of contributors or company name}**
+
   
