@@ -8,7 +8,7 @@ This website contains a few links and images to help the user navigate through d
 ## Technologies Used
 I used HTML to create this website
 ## Support and contact details
-If you rn into any issues please reach out at angie.dar66@gmail.com
+If you run into any issues please reach out at angie.dar66@gmail.com
 ### License
 MIT License
 
